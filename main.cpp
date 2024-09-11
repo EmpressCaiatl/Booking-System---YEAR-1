@@ -1,5 +1,5 @@
 
-/*  Isabella Maffeo Assignment 1
+/*  Isabella Assignment 1
     September 12, 2020  */
 
 #include<iostream>
